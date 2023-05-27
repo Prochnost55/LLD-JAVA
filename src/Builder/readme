@@ -5,3 +5,4 @@ When we have a large object and we also want to validate the object before its c
 In the current example, we have a student class with relevant properties. We may want to apply validation to graduationYear, age, etc.
 
 We can make use of a helper class.
+See student.java for ref
