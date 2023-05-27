@@ -3,3 +3,5 @@ This design pattern is a creational design pattern.
 When we have a large object and we also want to validate the object before its creation then we can use builder design pattern.
 
 In the current example, we have a student class with relevant properties. We may want to apply validation to graduationYear, age, etc.
+
+We can make use of a helper class.
